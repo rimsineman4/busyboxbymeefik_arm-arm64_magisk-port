@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=busyboxbymeefik
+name=BusyBox by Meefik, systemless (ARM(64))
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Meefik (Magisk port by Anton2365) 
+description=Contains Meefiks BusyBox binary, needed for (his) apps to work properly. 
 template=1400
