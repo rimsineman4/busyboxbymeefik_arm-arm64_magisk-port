@@ -129,7 +129,7 @@ is_mounted $MOUNTPATH || abort "! $IMG mount failed..."
 rm -rf $MODPATH 2>/dev/null
 mkdir -p $MODPATH
 
-ui_print "- Extracting module files"
+ui_print "- Extracting binary"
 unzip -o "$ZIP" 'system/*' -d $MODPATH 2>/dev/null
 
 # Handle replace folders
@@ -178,5 +178,6 @@ fi
 $BOOTMODE || recovery_cleanup
 rm -rf $TMPDIR
 
-ui_print "- Done"
+ui_print "- Done. Now have fun! :)"
+ui_print "Also credits to meefik, for his apps and binary! :D"
 exit 0
