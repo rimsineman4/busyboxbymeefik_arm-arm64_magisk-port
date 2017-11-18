@@ -1,7 +1,7 @@
 id=busyboxbymeefik
 name=BusyBox by Meefik, systemless (ARM(64))
-version=v1
+version=v1/v1.27.2-meefik
 versionCode=1
-author=Meefik (Magisk port by Anton2365) 
-description=Contains Meefiks BusyBox binary, needed for (his) apps to work properly. 
+author=meefik (Magisk port by Anton2365) 
+description=Contains meefiks BusyBox binary, needed for (his) apps to work properly. 
 template=1400
