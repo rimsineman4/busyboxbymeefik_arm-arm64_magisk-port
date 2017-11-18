@@ -27,3 +27,5 @@ Also I didn't modify the binary, nor aren't I going to.
 ## LICENSING:
 
 This software is open source and free to redistribute. It is licenced under GNU GPL v3.
+
+Special thanks to Meefik for the actual binary.
